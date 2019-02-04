@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//Â© A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -35,7 +35,7 @@ public class Lab19a
 		}		
 		
 		System.out.println("HERD :: "+herd+"\n");
-		//print out the other stats
+		//print out the largest and smallest monster
 			
 	}		
 }
