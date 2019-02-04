@@ -1,5 +1,5 @@
 
-//© A+ Computer Science  -  www.apluscompsci.com
+//Â© A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -25,16 +25,23 @@ public class Monsters
 		//put m in the Monster array at [spot]
 	}
 
-	public String getLargest( )
+	public Monster getLargest( )
 	{
+		//assume they are NOT already sorted
 		return null;
 	}
 
 	public Monster getSmallest( )
 	{
+		//assume they are NOT already sorted
 		return null;
 	}
-
+	
+	public void sortMonstersbySize()
+	{
+		//Write the code to sort the monsters by size from smallest to largest
+	}
+		
 	public String toString()
 	{
 		return "";
