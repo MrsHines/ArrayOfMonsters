@@ -39,7 +39,7 @@ public class Monsters
 	
 	public void sortMonstersbySize()
 	{
-		//Write the code to sort the monsters by size from smallest to largest
+		//Write the code to sort the monsters by height from smallest to largest
 	}
 		
 	public String toString()
